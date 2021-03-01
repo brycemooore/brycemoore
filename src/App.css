@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.SiteNav {
+  display: flex;
+}
+
+.overlay {
+  position:absolute;
+  top:0;
+  left:33%;
+  height:400px;
+  z-index:1;
+}
