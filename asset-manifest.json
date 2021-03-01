@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/brycemoore/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/brycemoore/static/js/main.6725e425.chunk.js",
-    "main.js.map": "/brycemoore/static/js/main.6725e425.chunk.js.map",
+    "main.js": "/brycemoore/static/js/main.bfae1ab9.chunk.js",
+    "main.js.map": "/brycemoore/static/js/main.bfae1ab9.chunk.js.map",
     "runtime-main.js": "/brycemoore/static/js/runtime-main.b7e891e4.js",
     "runtime-main.js.map": "/brycemoore/static/js/runtime-main.b7e891e4.js.map",
-    "static/js/2.57583da4.chunk.js": "/brycemoore/static/js/2.57583da4.chunk.js",
-    "static/js/2.57583da4.chunk.js.map": "/brycemoore/static/js/2.57583da4.chunk.js.map",
+    "static/js/2.6f99b96d.chunk.js": "/brycemoore/static/js/2.6f99b96d.chunk.js",
+    "static/js/2.6f99b96d.chunk.js.map": "/brycemoore/static/js/2.6f99b96d.chunk.js.map",
     "index.html": "/brycemoore/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/brycemoore/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.57583da4.chunk.js.LICENSE.txt": "/brycemoore/static/js/2.57583da4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/brycemoore/static/media/logo.6ce24c58.svg"
+    "static/js/2.6f99b96d.chunk.js.LICENSE.txt": "/brycemoore/static/js/2.6f99b96d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b7e891e4.js",
-    "static/js/2.57583da4.chunk.js",
+    "static/js/2.6f99b96d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6725e425.chunk.js"
+    "static/js/main.bfae1ab9.chunk.js"
   ]
 }
