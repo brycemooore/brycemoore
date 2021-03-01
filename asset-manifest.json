@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brycemoore/static/css/main.9f6de549.chunk.css",
+    "main.css": "/brycemoore/static/css/main.bfdfdfe8.chunk.css",
     "main.js": "/brycemoore/static/js/main.770e3c42.chunk.js",
     "main.js.map": "/brycemoore/static/js/main.770e3c42.chunk.js.map",
     "runtime-main.js": "/brycemoore/static/js/runtime-main.b7e891e4.js",
@@ -8,14 +8,14 @@
     "static/js/2.efaaa113.chunk.js": "/brycemoore/static/js/2.efaaa113.chunk.js",
     "static/js/2.efaaa113.chunk.js.map": "/brycemoore/static/js/2.efaaa113.chunk.js.map",
     "index.html": "/brycemoore/index.html",
-    "static/css/main.9f6de549.chunk.css.map": "/brycemoore/static/css/main.9f6de549.chunk.css.map",
+    "static/css/main.bfdfdfe8.chunk.css.map": "/brycemoore/static/css/main.bfdfdfe8.chunk.css.map",
     "static/js/2.efaaa113.chunk.js.LICENSE.txt": "/brycemoore/static/js/2.efaaa113.chunk.js.LICENSE.txt",
     "static/media/video.7f7675fe.mp4": "/brycemoore/static/media/video.7f7675fe.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b7e891e4.js",
     "static/js/2.efaaa113.chunk.js",
-    "static/css/main.9f6de549.chunk.css",
+    "static/css/main.bfdfdfe8.chunk.css",
     "static/js/main.770e3c42.chunk.js"
   ]
 }
