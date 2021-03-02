@@ -44,7 +44,14 @@
 .overlay {
   position:absolute;
   top:0;
-  left:35vw;
-  height:50vh;
+  left: 30vw; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   z-index:1;
+}
+
+h1{
+  color:#fff;
 }

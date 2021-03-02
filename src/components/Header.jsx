@@ -2,6 +2,7 @@ import React from 'react'
 import video from '../images/video.mp4'
 import logo from '../images/personals_logo.png'
 import '../App.css'
+import TextLoop from 'react-text-loop';
 
 export default function Header() {
     return (
@@ -10,7 +11,15 @@ export default function Header() {
                 <source src={video} type="video/mp4"/>
                 Your Browser Does Not Support Video
             </video>
-            <img src={logo} alt="Bryce Moore" className="overlay"/>
+            <div className="overlay">
+                <img src={logo} alt="Bryce Moore" style={{height: '35vw'}}/>
+                <h1 >
+                    is a 
+                </h1>
+                <h1>
+                    <TextLoop children={["Software Engineer", "Creative", "Musician", "Dreamer"]} />
+                </h1>
+            </div>
         </div>
     )
 }
