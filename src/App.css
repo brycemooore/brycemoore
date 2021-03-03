@@ -43,15 +43,28 @@
 
 .overlay {
   position:absolute;
-  top:0;
-  left: 30vw; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* top:0; */
   text-align: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
   z-index:1;
+  margin-left: auto;
+}
+
+.headerContainer{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
 
 h1{
   color:#fff;
+}
+
+body{
+  background-color: black;
 }
