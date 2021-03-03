@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/brycemoore/static/css/main.2a0725cd.chunk.css",
-    "main.js": "/brycemoore/static/js/main.6a4f7657.chunk.js",
-    "main.js.map": "/brycemoore/static/js/main.6a4f7657.chunk.js.map",
+    "main.css": "/brycemoore/static/css/main.753b1133.chunk.css",
+    "main.js": "/brycemoore/static/js/main.9e1034dc.chunk.js",
+    "main.js.map": "/brycemoore/static/js/main.9e1034dc.chunk.js.map",
     "runtime-main.js": "/brycemoore/static/js/runtime-main.b7e891e4.js",
     "runtime-main.js.map": "/brycemoore/static/js/runtime-main.b7e891e4.js.map",
     "static/js/2.96869fe4.chunk.js": "/brycemoore/static/js/2.96869fe4.chunk.js",
     "static/js/2.96869fe4.chunk.js.map": "/brycemoore/static/js/2.96869fe4.chunk.js.map",
     "index.html": "/brycemoore/index.html",
-    "static/css/main.2a0725cd.chunk.css.map": "/brycemoore/static/css/main.2a0725cd.chunk.css.map",
+    "static/css/main.753b1133.chunk.css.map": "/brycemoore/static/css/main.753b1133.chunk.css.map",
     "static/js/2.96869fe4.chunk.js.LICENSE.txt": "/brycemoore/static/js/2.96869fe4.chunk.js.LICENSE.txt",
     "static/media/video.7f7675fe.mp4": "/brycemoore/static/media/video.7f7675fe.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b7e891e4.js",
     "static/js/2.96869fe4.chunk.js",
-    "static/css/main.2a0725cd.chunk.css",
-    "static/js/main.6a4f7657.chunk.js"
+    "static/css/main.753b1133.chunk.css",
+    "static/js/main.9e1034dc.chunk.js"
   ]
 }
