@@ -4,22 +4,20 @@ import '../App.css'
 
 export default function Nav() {
     return (
-        <li className="siteNav">
+        <ul className="siteNav" style={{listStyle: 'none'}}>
             <li>
-                <h2>About</h2>    
+                <h2><a>About</a></h2>    
             </li>
             <li>
-                <h2>
-                    Skills
-                </h2>
+                <h2><a>Skills</a></h2>
             </li>
             <li>
-                <h2>Projects</h2>
+                <h2><a>Projects</a></h2>
             </li>
             <li>
-                <h2>Links</h2>
+                <h2><a>Links</a></h2>
             </li>
 
-        </li>
+        </ul>
     )
 }
