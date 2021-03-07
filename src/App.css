@@ -41,3 +41,13 @@ body{
   color: white;
   background-color: black;
 }
+
+.About{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  /* height: 100%; */
+}

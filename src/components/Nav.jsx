@@ -6,7 +6,7 @@ export default function Nav() {
     return (
         <ul className="siteNav" style={{listStyle: 'none'}}>
             <li>
-                <h2><a>About</a></h2>    
+                <h2><a href="#about-section">About</a></h2>    
             </li>
             <li>
                 <h2><a>Skills</a></h2>
